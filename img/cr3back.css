@@ -1,0 +1,21 @@
+header {
+  background-color: tomato;
+}
+
+main {
+  white-space: pre-wrap;
+  margin-left: 45px;
+}
+
+img.card-img-top {
+  width: 375px;
+}
+
+#swich {
+  width: 441px;
+}
+
+h1 {
+  background-color: sandybrown;
+}
+/*# sourceMappingURL=cr3back.css.map */

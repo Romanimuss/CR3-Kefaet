@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  background-color: yellowgreen;
+  text-align: center;
+}
+
+h3, h4, p {
+  color: aliceblue;
+}
+
+.Mama {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.card.mb-3 {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-text-stroke: medium;
+}
+/*# sourceMappingURL=CR_3.css.map */
